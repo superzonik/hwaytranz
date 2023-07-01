@@ -19,7 +19,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #feb900;
+  --color-primary: #148bc3;
   --color-secondary: #52565e;
 }
 
@@ -1906,6 +1906,16 @@ section {
   padding-bottom: 30px;
   font-size: 56px;
   font-weight: 700;
+  position: relative;
+} 
+
+.hero .info h3 {
+  color: #97e1ff;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  font-size: 35px;
+  font-weight: 600;
+  font-style: italic;
   position: relative;
 }
 
